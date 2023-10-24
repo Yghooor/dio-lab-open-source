@@ -5,16 +5,16 @@
 
 ## Certificações 🎓
 
-[AI For Everyone](https://coursera.org/share/08d2f6e5e00e16ea34cda2290bacc240)
-[Fundamentos do Suporte Técnico](https://coursera.org/share/137fc0266746736ef93e9147dbfffada)
-[Descubra a Nuvem AWS](https://www.dio.me/certificate/FC58DF24)
+* [AI For Everyone](https://coursera.org/share/08d2f6e5e00e16ea34cda2290bacc240)
+* [Fundamentos do Suporte Técnico](https://coursera.org/share/137fc0266746736ef93e9147dbfffada)
+* [Descubra a Nuvem AWS](https://www.dio.me/certificate/FC58DF24)
 
 ## Conecte-se comigo 📲
 
-*[LinkedIn](https://www.linkedin.com/in/yghor-almeida-87424a222/)
-*[Gmail](yghor96@gmail.com)
-*[Dio profile](https://www.dio.me/users/yghor96)
-*[Discord](https://discord.com/channels/@me/917963828510199868)
+* [LinkedIn](https://www.linkedin.com/in/yghor-almeida-87424a222/)
+* [Gmail](yghor96@gmail.com)
+* [Dio profile](https://www.dio.me/users/yghor96)
+* [Discord](https://discord.com/channels/@me/917963828510199868)
 
 
 ## Nota
