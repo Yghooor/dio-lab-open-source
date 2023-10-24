@@ -1,6 +1,6 @@
 # Oi, Eu sou o Yghor! 👨🏽‍💻
 
-*Brasileiro, natural do estado do Ceará. Fascinado por tecnologia. Atualmente me encontro em transição de carreira, encerrei meu contrato na empresa em que trabalhei durante 06 anos, para focar em minha carreira na área de TI. No momento, sou aluno da [UTD](https://www.sct.ce.gov.br/utd/) no curso de Suporte e Manutenção de Computadadores, com previsão para conclusão em novembro/2023.*
+*Brasileiro, natural do estado do Ceará. Fascinado por tecnologia. Atualmente me encontro em transição de carreira, encerrei meu contrato na empresa em que trabalhei durante 06 anos, para focar em minha carreira na área de TI. No momento, sou aluno da [UTD](https://www.sct.ce.gov.br/utd/) no curso de Suporte e Manutenção de Computadores, com previsão para conclusão em novembro/2023.*
 *No primeiro momento coloquei meu foco na parte de hardware, agora com a conclusão de meu curso chegando, estou dispondo de mais tempo para meus estudos em programação. Estou participando do [bootcamp](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero) da DIO em parceria com o Ifood, meu objetivo em participar do bootcamp é, adquirir o conhecimento base em programação.*
 
 ## Certificações 🎓
@@ -18,4 +18,4 @@
 
 
 ## Nota
-*Breve, estou de volta. Para atualizar minhas habilidades, dentro da programação. Até lá, sigo estudando...* 📚
+*Breve volto, para atualizar sobre minhas habilidades técnicas, dentro da programação. Até lá, sigo estudando...* 📚
