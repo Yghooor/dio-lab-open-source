@@ -7,7 +7,7 @@
 
 * [AI For Everyone](https://coursera.org/share/08d2f6e5e00e16ea34cda2290bacc240)
 * [Fundamentos do Suporte Técnico](https://coursera.org/share/137fc0266746736ef93e9147dbfffada)
-*[Descubra a Nuvem AWS](https://www.dio.me/certificate/FC58DF24)
+* [Descubra a Nuvem AWS](https://www.dio.me/certificate/FC58DF24)
 
 ## Conecte-se comigo 📲
 
